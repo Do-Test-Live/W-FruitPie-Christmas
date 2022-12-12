@@ -2105,12 +2105,6 @@ form p {
         font-size: 17px;
     }
 
-    .banner-2 .bottom-content img {
-        width: 380px;
-        height: 60px;
-        max-width: 100%;
-    }
-
     #order-form .main-button .btnmain {
         font-size: 19px;
     }
@@ -2143,11 +2137,6 @@ form p {
         font-size: 16px;
     }
 
-    .banner-2 .bottom-content img {
-        width: 330px;
-        height: 55px;
-    }
-
     .banner-2 .shipp-info h3 {
         font-size: 18px;
     }
@@ -2168,11 +2157,6 @@ form p {
 
     .banner-2 h1 {
         font-size: 45px;
-    }
-
-    .banner-2 .bottom-content img {
-        width: 310px;
-        height: 45px;
     }
 
     .banner-2 p {
@@ -2204,10 +2188,6 @@ form p {
         line-height: 35px;
         margin-top: 15px;
         font-weight: 800;
-    }
-
-    .banner-2 .bottom-content img {
-        display: none;
     }
 
     .tab-container {
